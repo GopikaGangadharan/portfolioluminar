@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    margin: 0px;
+}
+#menu{
+    position: fixed;
+    background-color: aquamarine;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    height: 50px;
+   
+}
+.ra{
+    display: inline;
+    padding-right: 30px;
+    font-size: 20px;
+
+}
+a{
+    color:red;
+text-decoration: none;
+}
+a:hover{
+font-size: 30px;
+}
+
+#achivements a{
+    color: blue;
+    text-decoration: underline;
+}
+html{
+    scroll-behavior: smooth;
+}
+#home img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-top: 60px;
+
+}#home{
+  margin-top: 6px;
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
+.line{
+    height: 6px;
+    background-color: blueviolet;
+    width: 60px;
+    margin: auto;
+    margin-bottom: 10px;
+}
